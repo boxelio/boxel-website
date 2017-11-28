@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Boxel
 
-You can use the [editor on GitHub](https://github.com/boxelio/boxel-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Embedded solutions for targetted applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are creating an operating system based on XYZ (still deciding) ideal for low-power embedded platforms (specifically, Raspberry Pi) that makes it easy to create and maintain pre-built custom distributions for specific purposes. We are using it to build our own radio products, but you can use it to make yours for any purpose.
 
 ### Markdown
 
